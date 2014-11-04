@@ -1,0 +1,7 @@
+En este documento haremos un repaso de todos los pasos que se iran dando para la generación de la documentación del proyecto con LATEX:
+
+ Sigo los pasos para la instalación en Linux/Debian, en la siguiente fuente: http://navarroj.com/latex/linux.html
+
+  - Instalación de Latex:
+       $ sudo apt-get install texlive
+
