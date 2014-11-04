@@ -1,36 +1,32 @@
-ï»¿flokibooks
+flokibooks
 ==========
 
+INTRODUCCIÓN 
 
-
-INTRODUCCIÃ“N 
-
-Â¿Te gusta leer? Â¿Eres de los que tiene un ebook, pero aÃºn asÃ­ te gusta tener tu biblioteca en casa y leer un libro en formato papel? Â¿Tienes tantos libros en casa y no sabes como organizarlos?, Â¿te ha pasado alguna vez que dejas un libro a un amigo, y al cabo del tiempo te olvidas de que ese libro en su dÃ­a fuÃ© tuyo?. "Flokibooks", es un programa en el que podras gestionar tu biliboteca personal de todos los libros que tienes en casa, etiquetarlos con cÃ³digos QR, generar informes y llevar un control de prÃ©stamos, catalogar los libros, programaciÃ³n de alarmas, entre otras. 
+¿Te gusta leer? ¿Eres de los que tiene un ebook, pero aún así te gusta tener tu biblioteca en casa y leer un libro en formato papel? ¿Tienes tantos libros en casa y no sabes como organizarlos?, ¿te ha pasado alguna vez que dejas un libro a un amigo, y al cabo del tiempo te olvidas de que ese libro en su día fué tuyo?. "Flokibooks", es un programa en el que podras gestionar tu biliboteca personal de todos los libros que tienes en casa, etiquetarlos con códigos QR, generar informes y llevar un control de préstamos, catalogar los libros, programación de alarmas, entre otras. 
 
 
 
 OBJETIVOS PRINCIPALES DEL PROYECTO "FLOKIBOOKS"
 
- Los objetivos principales del proyecto los enumeramos a continuaciÃ³n:
+ Los objetivos principales del proyecto los enumeramos a continuación:
 
-    1) Gestionar la informaciÃ³n de cada uno de los libros.
+    1) Gestionar la información de cada uno de los libros.
     2) Gestionr informes de cada un de los libros prestados.
     3) Ofrecer una interaz de usuario.
 
 OBJETIVOS SECUNDARIOS
 
-    1) Relizar una API para smartphone (con Android) que permita la gestiÃ³n de la biblioteca. Mediante cÃ³digos QR.
+    1) Relizar una API para smartphone (con Android) que permita la gestión de la biblioteca. Mediante códigos QR.
     
 
 
 
 
-DISEÃ‘O DEL PROYECTO "FLOKIBOOKS"
+DISEÑO DEL PROYECTO "FLOKIBOOKS"
 
- - Se usarÃ¡ el lenguaje C para su desarrollo.
- - Se utilizarÃ¡ SQLite como gestor de base de datos relacional.
- - Se utilizarÃ¡ GTK+ para la aplicaciÃ³n de la interfaz de usuario.
- - Se utilizarÃ¡ DOXYGEN para la generaciÃ³n de la documentaciÃ³n del cÃ³digo fuente
- - Se utilizarÃ¡ LateX para la documentaciÃ³n del proyecto.
-    
-
+ - Se usará el lenguaje C para su desarrollo.
+ - Se utilizará SQLite como gestor de base de datos relacional.
+ - Se utilizará GTK+ para la aplicación de la interfaz de usuario.
+ - Se utilizará DOXYGEN para la generación de la documentación del código fuente
+ - Se utilizará LateX para la documentación del proyecto.
