@@ -1,4 +1,4 @@
-flokibooks
+Flokibooks
 ==========
 
 INTRODUCCIÓN 
@@ -11,16 +11,14 @@ OBJETIVOS PRINCIPALES DEL PROYECTO "FLOKIBOOKS"
 
  Los objetivos principales del proyecto los enumeramos a continuación:
 
-    1) Gestionar la información de cada uno de los libros.
-    2) Gestionr informes de cada un de los libros prestados.
-    3) Ofrecer una interaz de usuario.
+	1) Realizar una API para smartphone (con Android) que permita la gestión de la biblioteca.
+
 
 OBJETIVOS SECUNDARIOS
 
-    1) Relizar una API para smartphone (con Android) que permita la gestión de la biblioteca. Mediante códigos QR.
-    
-
-
+	1) Gestionar la información de cada uno de los libros.
+	2) Gestionar informes de cada uno de los libros prestados.
+	3) Ofrecer una interfaz de usuario.
 
 
 DISEÑO DEL PROYECTO "FLOKIBOOKS"
